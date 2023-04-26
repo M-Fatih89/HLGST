@@ -24,5 +24,5 @@ The experiment of the prediction model for each dataset is given in a separate J
 Many different settings for hyperparameters were studied to obtain the most accurate results for our proposed model. In this context, the Adam optimizer and Relu activation were used to train our model with a learning rate = 0.001, batch-size = 32. For each individual model, training epochs = 30.
 
 # Environment:
-The following packages are required:
+Python 3.6.13 and the following packages are required:
 Pandas 1.1.5; Numpy 1.19.2; Tensorflow 2.6.2; Keras 2.6.0; Pickle5 4.0; Math, scikit-learn .0.24.2.
